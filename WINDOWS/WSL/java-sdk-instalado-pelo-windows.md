@@ -1,5 +1,7 @@
 ### Caso o JavaSDK tenho sido instalado pelo WINDOWS e precise instaciar pelo WLS
 
+[jdk-18_windows-x64_bin.msi](https://download.oracle.com/java/18/latest/jdk-18_windows-x64_bin.msi)
+
 #### Criar variável JAVA_HOME
 
 ```
